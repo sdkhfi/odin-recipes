@@ -1,2 +1,2 @@
 # odin-recipes
-The Odin Project practices website
+The Odin Project practice website
